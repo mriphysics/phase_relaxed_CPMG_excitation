@@ -3,7 +3,7 @@ Phase relaxed method for CPMG excitation pulses. The method was presented at the
 
 Shaihan Malik, July 2015
 
-### [Releases](link)
+### [Releases](https://github.com/mriphysics/phase_relaxed_CPMG_excitation/releases)
 Code is available as a release including binary files (Matlab .mat files) containing B1 and B0 field maps. Please see the releases page for more.
 
 Note that a persistent version of release 1.0 has been linked: [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.19957.svg)](http://dx.doi.org/10.5281/zenodo.19957)
