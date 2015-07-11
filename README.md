@@ -1,6 +1,8 @@
 # Phase Relaxed CPMG Excitation
 Phase relaxed method for CPMG excitation pulses. The method was presented at the ISMRM conference in 2014 (abstract [here](https://kclpure.kcl.ac.uk/portal/files/38148970/0948.pdf)) and is currently under review for journal publication. A pre-print will be posted on acceptance. This repo contains Matlab code for implementing 2D or 3D pulse designs.
 
+Shaihan Malik, July 2015
+
 ### [Releases](link)
 Code is available as a release including binary files (Matlab .mat files) containing B1 and B0 field maps. Please see the releases page for more.
 
